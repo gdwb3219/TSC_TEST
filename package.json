@@ -1,0 +1,21 @@
+{
+  "name": "tsc-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/tsc a.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdwb3219/TSC_TEST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdwb3219/TSC_TEST/issues"
+  },
+  "homepage": "https://github.com/gdwb3219/TSC_TEST#readme"
+}
